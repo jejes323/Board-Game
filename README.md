@@ -21,6 +21,9 @@ OpenGL과 GLUT를 이용해 구현한 **3D 2인용 보드 게임**입니다.
 
 ## 🎬 데모 영상
 
+[영상 보기](https://github.com/user-attachments/assets/2db7e167-b957-4d83-a073-b73ca53caa52)
+
+
 
 <br>
 
@@ -77,22 +80,6 @@ OpenGL과 GLUT를 이용해 구현한 **3D 2인용 보드 게임**입니다.
 ### 💡 OpenGL 조명
 - `GL_LIGHT0` 단일 광원 (Ambient + Diffuse + Specular)
 - `GL_COLOR_MATERIAL` 로 재질 색상 연동
-
-<br>
-
-## 📁 프로젝트 구조
-
-```
-Board-Game/
-├── 소스/
-│   └── boardgame.cpp          # 전체 게임 소스 코드 (1,002줄)
-├── 컴퓨터그래픽스 실행영상.mp4   # 게임 플레이 영상
-├── 그래픽스 완성본.hwp           # 최종 보고서
-├── 프로젝트 계획서.hwp           # 초기 계획서
-├── 박서방조 1주차 프로젝트 주제 정하기 회의록.hwp
-├── 박서방조 1~2주차 프로젝트 결과.hwp
-└── 박서방 3~4주차 프로젝트 회의록.hwp
-```
 
 <br>
 
